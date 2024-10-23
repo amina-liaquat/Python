@@ -1,6 +1,6 @@
-name="Harry"
+name="Amina"
 print(name)
-freind="sunny"
+freind="fatima"
 print(freind)
 bestfreind='No one'
 print(bestfreind)
