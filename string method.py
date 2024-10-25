@@ -1,5 +1,5 @@
 # Strings are immutable
-a = "!!!Harry!! !!!!!!!!! Harry"
+a = "!!!Amina!! !!!!!!!!! Amina"
 print(len(a))
 print(a)
 print(a.upper())    #Converts a string into upper case
@@ -13,7 +13,7 @@ print(blogHeading.capitalize())
 str1 = "Welcome to the Console!!!"
 print(len(str1))
 print(len(str1.center(50)))
-print(a.count("Harry"))
+print(a.count("Amina"))
 
 str1 = "Welcome to the Console !!!"
 print(str1.endswith("!!!"))
