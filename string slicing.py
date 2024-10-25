@@ -1,4 +1,4 @@
-name="Harry"
+name="Amina"
 print(name[0:4])
 print(name[1:4])     # slicing
 # print(name[-4:-2])
