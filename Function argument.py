@@ -21,7 +21,7 @@ name("Rabbit","Giraffe","Buddy")
      # Keyword Arbitatery 
 def name(**name):
     print("Hello,",name["fname"],name["mname"],name["lname"])
-name(fname="Sikander",mname="Buddy",lname="Giraffe")
+name(fname="Amina",mname="Buddy",lname="Giraffe")
         # Return Statement
 def name(fname,mname,lname):
      return "Hello, " + fname + " " + mname + " " + lname
