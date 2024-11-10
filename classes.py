@@ -8,7 +8,7 @@
 # b=Person()
 # a.name="Miral"
 # a.occupation="BabyGirl"
-# b.name="Sikander"
+# b.name="Musa"
 # b.occupation="Frontend Developer"
 # # print(a.name)
 # # print(a.occupation)
@@ -55,7 +55,7 @@ class Student:
             sum += val
         print("Hi,",self.name,"Your avg score is:",sum/3)
 s1=Student("Amina",[99,89,98])
-s2=Student("Sikander",[89,98,99])
+s2=Student("Musa",[89,98,99])
 s3=Student("Buddy",[89,78,68])
 s1.get_avg()
 s2.get_avg()
