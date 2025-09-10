@@ -107,13 +107,7 @@ for fruit in fruits:
     print("Fruit:", fruit)
 
 # ---------------------------
-# Copy vs Reference
-# ---------------------------
-a = [1, 2, 3]
-b = a
-b[0] = 99
-print("Reference Original:", a)
-print("Reference Copy:", b)
+
 
 # ---------------------------
 # Flatten Nested List
