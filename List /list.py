@@ -109,9 +109,3 @@ for fruit in fruits:
 # ---------------------------
 
 
-# ---------------------------
-# Flatten Nested List
-# ---------------------------
-nested = [[1, 2], [3, 4]]
-flat = [x for sublist in nested for x in sublist]
-print("Flattened list:", flat)
