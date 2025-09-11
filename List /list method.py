@@ -91,12 +91,6 @@ print("Original:", original)
 print("Copied:", copied)
 
 # ---------------------------
-# Membership (in / not in)
-# ---------------------------
-print("'apple' in fruits:", "apple" in fruits)
-print("'melon' not in fruits:", "melon" not in fruits)
-
-# ---------------------------
 # Iterating
 # ---------------------------
 for fruit in fruits:
