@@ -17,3 +17,5 @@ Python provides a built-in function open() to work with files.
 - "b" → Binary mode (e.g., images, PDFs).
 - "t" → Text mode (default).
 
+---
+
