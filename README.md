@@ -53,7 +53,7 @@
 - Reading & Writing Files
 - Working with CSV Files
   
-**💡 Project:** To-Do List with File Storage
+**Project:** To-Do List with File Storage
 
 ## 8. Modules & Packages
 - Importing Modules (`math`, `random`, `datetime`)
