@@ -88,24 +88,14 @@
 - Decorators
 - Regular Expressions
 - Virtual Environments
-  
-**Project:** Email Automation Script
 
 ## 13. Web Development with Python
 - Flask Basics
 - Django Basics
-  
-**Project:** Blog Website
 
 ## 14. Python for Data Science & AI
 - Machine Learning Basics (Scikit-learn)
 - Working with Datasets
 - Model Training & Evaluation
-  
-**Project:** House Price Prediction
 
-## 15. Final Capstone Project
-- Combine Everything You’ve Learned into a Real-World Project like:
-  - E-commerce Backend
-  - Movie Recommendation System
-  - Chatbot
+---
