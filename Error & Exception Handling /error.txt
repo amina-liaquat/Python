@@ -1,0 +1,72 @@
+## Error  
+
+Errors are problems in a program that prevent it from executing normally. They can be broadly categorized into two types:
+
+Types of Errors:
+
+1- Syntax Errors
+  - Occur when Python parser cannot understand your code
+  - Also known as parsing errors
+  - Detected during program parsing (before execution)
+  - Must be fixed before the program can run
+
+Example:
+
+print("Hello world"  # Missing closing parenthesis
+if x > 5  # Missing colon
+x = [1, 2, 3  # Missing closing bracket
+
+
+-----------------------------------
+
+## Exception
+
+- Occur during program execution (at runtime)
+- Code syntax is correct but operation is not possible
+- Can be handled to prevent program crashes
+
+Example:
+
+print(10 / 0)  # ZeroDivisionError
+print(int("abc"))  # ValueError
+print(undefined_variable)  # NameError
+
+----------------------------------
+
+## Common Built-in Exceptions:
+
+
+Exception                	Description	                        Example
+
+ZeroDivisionError      	Division by zero	                     10 / 0
+ValueError	            Invalid value	                        int("abc")
+TypeError             	Invalid operation	                     "5" + 3
+IndexError	            Index out of range	                  [1,2,3][5]
+KeyError	             Dictionary key not found	              {"a":1}["b"]
+FileNotFoundError	     File doesn't exist	                 open("nonexistent.txt")
+NameError            	Variable not defined	               print(undefined_var)
+ImportError	         Module cannot be imported          	import nonexistent_module
+
+--------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
