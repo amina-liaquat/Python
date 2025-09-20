@@ -1,0 +1,6 @@
+## Abstraction
+
+Abstraction means hiding implementation details and showing only essential features.
+We use the abc module (Abstract Base Classes).
+
+--------------------------------------------
