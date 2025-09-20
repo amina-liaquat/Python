@@ -1,21 +1,15 @@
-## Object-Oriented Programming
+# Object-Oriented Programming (OOP) in Python
 
-Object-Oriented Programming (OOP) is a programming paradigm based on the concept of objects.Objects are instances of classes, which encapsulate data (attributes) and behavior (methods).
+Object-Oriented Programming (OOP) is a programming paradigm that organizes code into **classes** and **objects**.  
+It helps in making programs more **modular, reusable, and easier to maintain**.
 
-Python supports OOP and provides the following main concepts:
+---
 
-- Class
-- Object
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
+## Main Concepts of OOP
+1. **Class and Object**
+2. **Encapsulation**
+3. **Inheritance**
+4. **Polymorphism**
+5. **Abstraction**
 
----------------------------------
-
-## Class and Object
-
-- A class is a blueprint for creating objects.
-- An object is an instance of a class.
-
---------------------------------------
+---
