@@ -1,0 +1,3 @@
+## Inheritance
+
+Inheritance allows a class (child) to use properties and methods of another class (parent).
