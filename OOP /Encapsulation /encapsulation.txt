@@ -1,0 +1,5 @@
+## Encapsulation
+
+Encapsulation is wrapping data and methods into a single unit (class) and restricting direct access to some attributes.
+
+---------
