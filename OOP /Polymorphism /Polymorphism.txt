@@ -1,0 +1,3 @@
+## Polymorphism
+
+Polymorphism allows us to use the same method name but perform different actions depending on the object.
