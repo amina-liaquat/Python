@@ -26,6 +26,7 @@ print(df.describe())  # Quick stats like mean, min, max
 ## NumPy (Numerical Computing)
 
 NumPy is all about numbers and math. It gives us fast arrays and functions to do calculations quickly.
+
 Best for: big calculations, statistics, and scientific computing.
 
 ## Example:
