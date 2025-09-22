@@ -43,7 +43,27 @@ print("Square Root:", np.sqrt(arr))
 
 ---
 
+## Matplotlib (Data Visualization)
 
+Data is more fun when we can see it. Matplotlib helps us turn numbers into graphs and charts.
+
+Best for: line plots, bar charts, scatter plots, and more.
+
+---
+
+## Example:
+
+```python
+import matplotlib.pyplot as plt
+x = [1, 2, 3, 4, 5]
+y = [2, 4, 6, 8, 10]
+
+plt.plot(x, y, marker='o', color='purple')
+plt.title("Simple Line Chart")
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.show()
+```
 
 
 
