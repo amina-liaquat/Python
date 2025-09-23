@@ -67,6 +67,26 @@ plt.show()
 
 ---
 
+## Requests (APIs & HTTP Requests)
+
+Requests is like the postman of Python. It helps us talk to websites and APIs.
+
+Best for: fetching data from the web or APIs.
+
+---
+
+## Example:
+
+```pyhon
+import requests
+
+response = requests.get("https://jsonplaceholder.typicode.com/posts/1")
+
+print("Status Code:", response.status_code)
+print("JSON Response:", response.json())
+```
+
+---
 
 
 
