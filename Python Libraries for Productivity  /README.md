@@ -88,7 +88,29 @@ print("JSON Response:", response.json())
 
 ---
 
+## BeautifulSoup (Web Scraping)
 
+BeautifulSoup helps us extract useful information from web pages. Usually, we use it with requests.
+
+Best for: scraping titles, links, or text from websites.
+
+---
+
+## Example:
+
+```python
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://example.com"
+response = requests.get(url)
+
+soup = BeautifulSoup(response.text, "html.parser")
+
+print("Page Title:", soup.title.string)
+```
+
+---
 
 
 
