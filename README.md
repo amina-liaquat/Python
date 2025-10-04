@@ -10,7 +10,7 @@
   
 **Project:** Simple Calculator
 
-## 2. Strings & String Methods
+## 2. String & String Methods
 - String Indexing & Slicing
 - String Functions (`upper()`, `lower()`, `strip()`, `replace()`, etc.)
 - f-Strings & Formatting
