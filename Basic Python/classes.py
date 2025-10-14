@@ -23,8 +23,8 @@
 #         print(f"{self.attr1} is a bestfreind of {self.attr2}")
 # a=Animal()
 # b=Animal()
-# b.attr1="Golu"
-# b.attr2="Motu"
+# b.attr1="Gol"
+# b.attr2="Mot"
 # # print(a.attr1, a.attr2)
 # a.info()
 # b.info()
