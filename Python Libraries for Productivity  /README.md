@@ -23,7 +23,7 @@ print(df.describe())  # Quick stats like mean, min, max
 
 ---
 
-## NumPy (Numerical Computing)
+## NumPy 
 
 NumPy is all about numbers and math. It gives us fast arrays and functions to do calculations quickly.
 
