@@ -4,7 +4,7 @@ Python has a bunch of libraries that make our life easier as developers. Instead
 
 ---
 
-## Pandas (Data Analysis)  
+## Pandas 
 
 Think of Pandas as **Excel inside Python**. It helps us organize, clean, and analyze data.  
 
