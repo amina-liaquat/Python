@@ -11,11 +11,11 @@ def calc_bmi(weight_kg, height_m):    # renamed params for clarity
 def get_bmi_category(bmi_value):
     # TODO: Maybe add more specific categories later?
     if bmi_value < 18.5:
-        category = "Underweight 😕"
+        category = "Underweight "
     elif bmi_value >= 18.5 and bmi_value < 24.9:    # being explicit with the range
-        category = "Normal weight ✅"
+        category = "Normal weight "
     elif bmi_value >= 25 and bmi_value < 29.9:
-        category = "Overweight ⚠️"
+        category = "Overweight "
     else:
         category = "Obesity "
     
