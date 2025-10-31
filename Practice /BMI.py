@@ -17,7 +17,7 @@ def get_bmi_category(bmi_value):
     elif bmi_value >= 25 and bmi_value < 29.9:
         category = "Overweight ⚠️"
     else:
-        category = "Obesity 🚨"
+        category = "Obesity "
     
     return category
 
@@ -29,7 +29,7 @@ try:
     
     # Validate inputs are positive
     if user_weight <= 0 or user_height <= 0:
-        print("❌ Weight and height must be positive values!")
+        print(" Weight and height must be positive values!")
     else:
         # Calculate the BMI
         calculated_bmi = calc_bmi(user_weight, user_height)
@@ -46,6 +46,6 @@ try:
             pass    # markdown display might not work in all environments
 
 except ValueError:
-    print("❌ Please enter valid numeric values for weight and height.")
+    print("Please enter valid numeric values for weight and height.")
 except Exception as e:    # catch any other unexpected errors
-    print(f"❌ An error occurred: {e}")
+    print(f"An error occurred: {e}")
