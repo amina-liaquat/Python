@@ -1,6 +1,3 @@
-# Importing required module
-from IPython.display import Markdown as md
-
 # Function to calculate BMI
 def calc_bmi(weight_kg, height_m):    # renamed params for clarity
     """Calculate BMI using the standard formula"""
