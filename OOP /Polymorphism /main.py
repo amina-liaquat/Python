@@ -1,16 +1,13 @@
 class Bird:
-    def fly(self):
-        print("Some birds can fly")
+    pass
 
-class Eagle(Bird):
+class FlyingBird(Bird):
+    def fly(self):
+        print("This bird can fly")
+
+class Eagle(FlyingBird):
     def fly(self):
         print("Eagles fly high")
 
 class Penguin(Bird):
-    def fly(self):
-        print("Penguins cannot fly")
-
-# Usage
-birds = [Eagle(), Penguin()]
-for b in birds:
-    b.fly()
+    pass
