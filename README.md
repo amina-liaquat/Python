@@ -75,10 +75,4 @@
   
 **Project:** Bank Account Management System
 
-## 11. Python Libraries for Productivity
-- `Pandas` & `NumPy` (Data Analysis)
-- `Matplotlib` (Data Visualization)
-- `Requests` (APIs)
-- `BeautifulSoup` (Web Scraping)
-  
 ---
