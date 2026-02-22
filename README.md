@@ -58,14 +58,12 @@
 ## 8. Modules & Packages
 - Importing Modules (`math`, `random`, `datetime`)
 - Creating Your Own Modules
-  
-**Project:** Quiz App
+
 
 ## 9. Error & Exception Handling
 - `try`, `except`, `finally`
 - Custom Exceptions
-  
-**Project:** Secure Calculator
+
 
 ## 10. Object-Oriented Programming (OOP)
 - Classes & Objects
@@ -73,6 +71,6 @@
 - Inheritance
 - Polymorphism
   
-**Project:** Bank Account Management System
+
 
 ---
